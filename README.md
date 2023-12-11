@@ -6,7 +6,9 @@ My name is Jaitun Godhani, and I'm a Python Backend developer from Surat, Gujara
 ## Skills and Technologies
 - Programming Languages: Python
 - Frameworks: Django, Django Rest Framework, FastAPI
-- Technologies and Tools : celery, daphne, JWT Authentication, Multi factor Authentication, Saas Architecture, Crontab
+- Technologies and Tools : celery, daphne, JWT Authentication, Multi factor Authentication, Saas Architecture, Crontab, AWS, Elastic Search, Kafka
+- Third party Integrations : Jira, Stripe, Razorpay
+- Database: Mysql, postgresql, Sqlite
   
 Feel free to explore my repositories and don't hesitate to reach out!
 
